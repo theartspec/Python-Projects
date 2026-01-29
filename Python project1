@@ -1,0 +1,12 @@
+#Programe to find the intersection, difference and union of two sets
+setA =set(input("Enter the elements of set A separated by spaces: ").split())
+setB =set(input("Enter the elements of set B separated by spaces: ").split())
+# Intersection
+intersection = setA.intersection(setB)
+print("Intersection of set A and set B:", intersection)
+# Difference
+difference = setA.difference(setB)
+print("Difference of set A and set B (A - B):", difference)
+# Union
+union = setA.union(setB)
+print("Union of set A and set B:", union)
