@@ -1,28 +1,40 @@
 **Python Practice projects**
-This repository contains beginner-friendly Python projects created to strengthen core programming concepts such as variables, loops, functions, lists, and dictionaries.
+This repository is a collection of beginner-friendly Python projects built while exploring programming concepts, logic building, and simple game development.  
+These projects helped me practice problem-solving, improve my understanding of Python fundamentals, and experiment with interactive console applications.  
+It includes small but practical projects ranging from utility programs to a number guessing game called CipherQuest.
 
-These projects are suitable for students who are starting their journey in Python and want to build a strong foundation while maintaining a professional GitHub profile.
 
-**Projects Included**
+## Projects
 
-1. **Simple Calculator**
-- Performs basic arithmetic operations
-- Uses functions and conditional statements
-  
-**Concepts Used:** 
-Functions, user input, if-else
-
-2. **Student Result Management System** 
-- Stores student marks
-- Calculates total, percentage, and grade
-
-**Concepts Used:**
-Dictionary, arithmetic operations, decision making
-
+- Simple Calculator
+- Factorial Finder
+- Connection Meter
+- Set Operations
+- Grade System Calculator
+- CipherQuest — Number Guessing Game
 
 ---
 
-## ▶ How to Run the Programs
-1. Install Python 3
-2. Clone the repository
-3. Run any file using:
+## CipherQuest
+
+CipherQuest is a console-based number guessing game built using Python.
+
+### Features
+
+- Random number generation
+- Interactive gameplay
+- Hint system (`Too High` / `Too Low`)
+- Input validation
+- Replay functionality
+- Score / attempt tracking
+- Beginner-friendly game logic
+
+### Technologies Used
+
+- Python 3
+- `random` module
+
+### Run the Game
+
+```bash
+python cipherquest.py
