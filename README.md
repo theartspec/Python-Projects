@@ -10,6 +10,7 @@ It includes small but practical projects ranging from utility programs to a numb
 - Factorial Finder
 - Connection Meter
 - Set Operations
+- Palindrome numbers
 - Grade System Calculator
 - CipherQuest — Number Guessing Game
 
