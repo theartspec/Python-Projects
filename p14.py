@@ -2,9 +2,9 @@
 n=int(input("Enter a 5 digit number: "))
 temp=n
 count=0
-    while temp:
+while temp:
         c+=1
-        t=t//10
+        temp=temp//10
 sum=0
 if count==5:
     while n:
